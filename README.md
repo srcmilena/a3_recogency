@@ -1,33 +1,22 @@
-# Olá, Estudante! 
+# Olá, Estudante, 
 
-Nesta atividade, vamos dar continuidade à criação do site para a agência de viagens.  Nesta entrega, contemple uma estrutura de layout com um menu horizontal na parte superior de todas as páginas: HOME, DESTINOS, PROMOCOES, CONTATO. Não esqueça que está atividade deve ser realizada individualmente.  
+Agora, seguindo padrões de projeto, vamos atualizar mais uma vez nossa aplicação WEB Agência de Viagens, usando o Ecosistema Spring, com Front-end usando ReactJS e Back-end com Java Spring Boot, Spring MVC,  Persistencia de Dados com Hibernate e Spring Security. 
 
-Atente-se às seguintes orientações:  
+Banco de dados  
 
-Modelagem de dados:  
-
-Criar o modelo conceitual, lógico usando uma ferramenta de modelagem de dados; 
-
-Criar as relações e cardinalidades entre as tabelas do modelo; 
-
-Criar o modelo físico (Tabelas e relações) usando SQL. 
+Construção da base de dados usando o padrão NoSql (MongoDB) ou SQL relacional que atenda as especioficações do projeto usando o ecosistema Spring e as Tecnologias da plataforma e linguagem Java aplicando ORM (Object-Relational Mapping ou em português mapeamento objeto-relacional).  
 
  
 
 Back-end  
 
-Usando os conceitos de projeto MVC e C# .Net, criar um projeto aplicando o CRUD (Create, Read, Update, Delete) para todas as tabelas de seu modelo. 
+Refatorar o código anterior usando os padrões de projeto MVC e Persistência de dados com os frameworks Spring para a organização da aplicação. 
+
+  
+
+Front-end 
 
  
 
- Front-end 
-
-             1ª Passo:  
-
-Criar as páginas: Home, Destino, Promoções, Contato e as demais de acordo com seu modelo de dados usando HTML e CSS raiz, faça as formatações de acordo com a paleta de cores escolhida; 
-
-2º Passo:  
-
-Criar versão do frontend anterior usando o framework Bootstrap, com o conceito de responsividade. (Esta versão deve ser o frontend que vai fazer a conexão com banco de dados e o padrão MVC) 
-
+As views da aplicação serão baseadas na biblioteca React, usando todo o poder dos compenentes, Code Splitting, states, router, flux, redux). 
   

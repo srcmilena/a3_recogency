@@ -2,6 +2,12 @@
 A Recogency faz parte de uma idéia criada para as entregas individuais do curso de desenvolvimento full stack da Recode Pro. O foco do site é ser uma agência que oferece pacotes de viagens como sendo o principal serviço.
 A aplicação envolve desenvolvimento front end e back end.
 
+<div align="center">
+  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1648756763/v2_v3_recogency_promocoes_ta2dbd.jpg"/>
+  </br></br></br>
+  <img src="https://res.cloudinary.com/srcmilena/image/upload/v1648756763/v2_v3_recogency_promocoes_ta2dbd.jpg"/>
+</div>
+
 ## Anúncio na plataforma da Recode Pro:
 
 "Olá, estudante, 

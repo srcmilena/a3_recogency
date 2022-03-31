@@ -2,7 +2,7 @@
 A Recogency faz parte de uma idéia criada para as entregas individuais do curso de desenvolvimento full stack da Recode Pro. O foco do site é ser uma agência que oferece pacotes de viagens como sendo o principal serviço.
 A aplicação envolve desenvolvimento front end e back end.
 
-# Anúncio na plataforma da Recode Pro:
+## Anúncio na plataforma da Recode Pro:
 
 "Olá, estudante, 
 
